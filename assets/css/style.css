@@ -1,0 +1,16 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #3c4152;
+}
+.jumbotron {
+	background-color: #3c4152;
+
+}
+h1.displayTitle {
+	color: white;
+	text-align: center;
+}
+#panelHeading{
+	background-color: #4d5b6c;
+	color: #fafafa;
+}
